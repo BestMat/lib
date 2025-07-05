@@ -2,6 +2,7 @@
 
 #include <ncurses.h>
 
+// Creates new window
 WINDOW *create_newwin(
     int height,
     int width,
