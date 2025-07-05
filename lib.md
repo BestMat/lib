@@ -9,6 +9,7 @@ Image: assets/ncurses.png
 Explored and made vertical splits in the terminal with windows.
 
 ![NCURSES.H](assets/ncurses.png)
-![NCURSES_COLOR.H](assets/assets/ncurses_color.png)
+![NCURSES_COLOR.H](assets/ncurses_color.png)
+![NCURSES_DEBUG.H](assets/ncurses_debug.png)
 
 For (original) text version, go to readme.txt.
