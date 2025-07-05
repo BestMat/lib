@@ -2,7 +2,7 @@
 Small libraries for exploring C.
 
 === NCURSES.H ===
-File: main.c
+File: terminal.c
 Image: assets/ncurses.png
 Explored and made vertical splits in the terminal with windows.
 
