@@ -6,4 +6,6 @@ File: main.c
 Image: assets/ncurses.png
 Explored and made vertical splits in the terminal with windows.
 
-For Markdown version, go to lib.md.
+![NCURSES.H](assets/ncurses.png)
+
+For (original) text version, go to readme.txt..
