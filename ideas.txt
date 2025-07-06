@@ -1,0 +1,8 @@
+=== IDEAS ===
+1. ncurses.h
+2. file system
+3. virtual machine
+4. assembly: nasm (x86_64), aarch (mac)
+5. arenas
+6. strings
+7. byte view
