@@ -1,5 +1,8 @@
 === NCURSES.H ===
 https://tldp.org/HOWTO/NCURSES-Programming-HOWTO/index.html
 
+=== FILE SYSTEM ===
+https://en.wikipedia.org/wiki/C_file_input/output
+
 === VIRTUAL MACHINE ===
 https://www.andreinc.net/2021/12/01/writing-a-simple-vm-in-less-than-125-lines-of-c
