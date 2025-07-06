@@ -48,8 +48,8 @@ int main() {
   init_pair(5, COLOR_GREEN, COLOR_BLACK);
 
   // Creating top window:
-  int width = cols;
-  int height = rows / 2;
+  int width = cols;       // cols / 2 -> left window
+  int height = rows / 2;  // rows     -> left window
   int start_x = 0;
   int start_y = 0;
 
@@ -67,8 +67,8 @@ int main() {
   );
   
   // Creating bottom window:
-  width = cols;
-  height = rows / 2;
+  width = cols;           // cols / 2 -> right window
+  height = rows / 2;      // rows     -> right window
   start_y = height; 
 
   bot_y = start_y;
