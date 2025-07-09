@@ -1,9 +1,0 @@
-=== IDEAS ===
-[x] ncurses.h
-[ ] byte/hex dump
-[ ] file system
-[ ] virtual machine
-[ ] assembly: nasm (x86_64), aarch (mac)
-[ ] arenas
-[ ] strings
-[ ] byte view

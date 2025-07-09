@@ -1,3 +1,2 @@
-terminal
-.terminal.c.swp
-.Makefile.swp
+/terminal
+*.swp
